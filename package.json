@@ -1,0 +1,31 @@
+{
+  "name": "virtualkeyboard",
+  "version": "0.0.1",
+  "description": "Virtual Keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./",
+    "lint:fix": "eslint ./ --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenMinzalirov/VirtualKeyboard.git"
+  },
+  "author": "Denis Minzakirov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenMinzalirov/VirtualKeyboard/issues"
+  },
+  "homepage": "https://github.com/DenMinzalirov/VirtualKeyboard#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-airbnb-base": "^14.1.0"
+  }
+}
