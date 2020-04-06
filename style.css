@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  text-decoration: none;
+  list-style: none;
+}
+
+main {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  user-select: none;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn {
+  border-radius: 8px;
+  border: 1.2px solid black;
+  margin: 2px;
+  padding: 10px 5px;
+  animation-duration: infinite;
+  animation-name: release;
+  animation-duration: 0.2s;
+  animation-fill-mode: forwards;
+  flex: 1;
+  text-align: center;
+  background-color: rgb(58, 58, 58);
+  color: honeydew;
+  list-style-type: none;
+}
