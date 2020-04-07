@@ -261,7 +261,7 @@ export const keyBase = {
         keySpecial: 'ShiftLeft',
       },
       {
-        code: 'IntlBackslash',
+        code: 'Backslash',
         value: '\\',
         valueShift: '|',
         keySpecial: '',
@@ -375,12 +375,6 @@ export const keyBase = {
         value: 'Ctrl',
         valueShift: 'Ctrl',
         keySpecial: 'CtrlRight',
-      },
-      {
-        code: 'Language',
-        value: 'ENG',
-        valueShift: 'ENG',
-        keySpecial: 'Language',
       },
       {
         code: 'ArrowLeft',
@@ -663,7 +657,7 @@ export const keyBase = {
         keySpecial: 'ShiftLeft',
       },
       {
-        code: 'IntlBackslash',
+        code: 'Backslash',
         value: '\\',
         valueShift: '/',
         keySpecial: '',
@@ -777,12 +771,6 @@ export const keyBase = {
         value: 'Ctrl',
         valueShift: 'Ctrl',
         keySpecial: 'CtrlRight',
-      },
-      {
-        code: 'Language',
-        value: 'RU',
-        valueShift: 'RU',
-        keySpecial: 'Language',
       },
       {
         code: 'ArrowLeft',
