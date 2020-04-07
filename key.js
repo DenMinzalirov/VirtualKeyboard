@@ -344,7 +344,7 @@ export const keyBase = {
         code: 'ControlLeft',
         value: 'Ctrl',
         valueShift: 'Ctrl',
-        keySpecial: 'CtrlLeft',
+        keySpecial: 'ControlLeft',
       },
       {
         code: 'MetaLeft',
@@ -362,7 +362,7 @@ export const keyBase = {
         code: 'Space',
         value: ' ',
         valueShift: ' ',
-        keySpecial: 'Space',
+        keySpecial: '',
       },
       {
         code: 'AltRight',
@@ -374,7 +374,7 @@ export const keyBase = {
         code: 'ControlRight',
         value: 'Ctrl',
         valueShift: 'Ctrl',
-        keySpecial: 'CtrlRight',
+        keySpecial: 'ControlRight',
       },
       {
         code: 'ArrowLeft',
@@ -726,7 +726,7 @@ export const keyBase = {
         code: 'ArrowUp',
         value: '▲',
         valueShift: '▲',
-        keySpecial: '',
+        keySpecial: 'ArrowUp',
       },
       {
         code: 'ShiftRight',
@@ -740,7 +740,7 @@ export const keyBase = {
         code: 'ControlLeft',
         value: 'Ctrl',
         valueShift: 'Ctrl',
-        keySpecial: 'CtrlLeft',
+        keySpecial: 'ControlLeft',
       },
       {
         code: 'MetaLeft',
@@ -758,7 +758,7 @@ export const keyBase = {
         code: 'Space',
         value: ' ',
         valueShift: ' ',
-        keySpecial: 'Space',
+        keySpecial: '',
       },
       {
         code: 'AltRight',
@@ -770,25 +770,25 @@ export const keyBase = {
         code: 'ControlRight',
         value: 'Ctrl',
         valueShift: 'Ctrl',
-        keySpecial: 'CtrlRight',
+        keySpecial: 'ControlRight',
       },
       {
         code: 'ArrowLeft',
         value: '◄',
         valueShift: '◄',
-        keySpecial: '',
+        keySpecial: 'ArrowLeft',
       },
       {
         code: 'ArrowDown',
         value: '▼',
         valueShift: '▼',
-        keySpecial: '',
+        keySpecial: 'ArrowDown',
       },
       {
         code: 'ArrowRight',
         value: '►',
         valueShift: '►',
-        keySpecial: '',
+        keySpecial: 'ArrowRight',
       },
     ],
   ],
